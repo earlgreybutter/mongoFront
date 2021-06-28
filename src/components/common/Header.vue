@@ -4,9 +4,7 @@
 		<div class="menuWrap">
 			<ul class="menu">
 				<li><router-link to="/board/data">jsonData 확인</router-link></li>
-				<li><a href="javascript:;">메뉴2</a></li>
-				<li><a href="javascript:;">메뉴3</a></li>
-				<li><a href="javascript:;">메뉴4</a></li>
+				<li><a href="https://earlgreybutter.tistory.com/264" target='_blank'>개발과정</a></li>
 			</ul>
 		</div>
 	</header>
