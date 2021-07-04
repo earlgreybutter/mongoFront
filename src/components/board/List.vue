@@ -3,7 +3,7 @@
 		<h2>EC2Instances.info</h2>
 		<div>
 			<JqxListBox style="float: left" @checkChange="myListBoxOnCheckChange($event)"
-                    :width="200" :height="200" :source="listBoxSource" :checkboxes="true">
+                    :width="400" :height="200" :source="listBoxSource" :checkboxes="true">
         	</JqxListBox>
 		</div>
 		<div style="margin-top: 20px">
