@@ -18,7 +18,7 @@ export default {
     },
 	methods:{
 		getList() {
-			this.$axios.get("http://localhost:3000/api/board")
+			this.$axios.get("http://localhost:3000/api/books")
 			.then((res)=>{
                 this.message = JSON.stringify(res);
 			})
